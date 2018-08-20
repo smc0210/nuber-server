@@ -1,11 +1,12 @@
 # nuber-server
 
 ## Requirements
-- Node.js
-- Typescript
-- POSTGRESQL
-- GraphQL
-- React
+
+* Node.js
+* Typescript
+* POSTGRESQL
+* GraphQL
+* React
 
 ## Get Start
 
@@ -16,8 +17,4 @@ yarn add
 # server start
 yarn dev
 ```
-
-
-
-
 
