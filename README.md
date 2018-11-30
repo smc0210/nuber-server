@@ -3,9 +3,10 @@
 ## Requirements
 
 * Node.js
-* Typescript
-* POSTGRESQL
-* GraphQL
+* Yarn ( npm or installer)
+* Typescript ( yarn )
+* POSTGRESQL ( official web site )
+* GraphQL ( yarn )
 * React
 
 ## Get Start
