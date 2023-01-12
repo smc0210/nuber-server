@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "bcrypt": "^3.0.0",
-    "class-validator": "^0.9.1",
+    "class-validator": "^0.14.0",
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
     "graphql-tools": "^3.1.1",
